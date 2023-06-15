@@ -1,14 +1,6 @@
 ## Hello, World! Glad you found me!👋
 
-<a href="mailto:leolaurindorj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://leolaurindo.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-</a>
-<a href="https://www.linkedin.com/in/leonardo-laurindo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<a href="https://www.linkedin.com/in/leonardo-laurindo/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:leolaurindorj@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://leolaurindo.hashnode.dev/"> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"> </a>
 
 I'm Leonardo Laurindo, currently specializing in Data Science and Analytics at PUC-Rio. My academic journey took a unique path where I have a Master of Science degree in a different field, broadening my perspectives and analytical skills. With a combined four years of research experience and studies, I am keen to apply my diversified knowledge base to the world of Data Science and Analytics to generate the maximum possible value from data. I will also begin to document my studies and learning on my hashnode blog.
 
