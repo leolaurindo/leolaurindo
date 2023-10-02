@@ -8,7 +8,7 @@ My academic journey took a unique path. I have a Master of Science degree in Law
 
 To help this transformative journey, I decided that start postgraduate studies in "Data Science and Analytics" specialization at PUC-Rio. I also received the Azure AI Fundamentals (AI-900) from Microsoft.
 
-As of right now, my stack includes PostgreSQL, Bigquery, python and its EDA and machine learning libraries, like pandas, numpy, scipy, statsmodel, scikit-learn and a bit of pytorch. My goal right now is to fine tune my modelling programming skills as well as containerization technologies like docker.
+My strongest skill right now, besides analytical thinking, is python. I am working hard to become a seamless python engineer. I also understand that learning python I necessarily learn about data structures, data processing, files structures, memory usage, architecture design, and much more. Besides, as of right now, my stack includes SQL cloud databases such as BigQuery and Amazon Redshift, PostgreSQL, Tableau and Alteryx.
 
 You can find me on my linkedin or mail me with the badges above.
 
