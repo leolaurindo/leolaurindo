@@ -4,7 +4,7 @@
 
 I'm Leonardo Laurindo, currently working with data science and machine learning at Shape Digital. Before, I've worked with analytics and BI at Sony Music.
 
-My academic journey took a unique path. I have a Master of Science degree in Law Sciences and about four years of experience in research. In 2023, however, shifted my professional career to the world of data.
+My academic journey took a unique path. I have a Master of Science degree in Law Sciences and about four years of experience in research. In 2023, however, shifted my professional career to the world of data mining, machine and statistical learning and artificial intelligence.
 
 You can find me on my linkedin or mail me with the badges above.
 
